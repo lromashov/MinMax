@@ -1,0 +1,42 @@
+:root {
+  --bg: #090e17;
+  --bg-secondary: #101826;
+  --panel: #101725;
+  --panel-alt: #171f31;
+  --text: #edf4ff;
+  --muted: #8fa0bf;
+  --accent: #ff7849;
+  --accent-soft: #9f5bff;
+  --success: #38d39f;
+  --danger: #ff6d7d;
+  --bubble-me: #24314b;
+  --bubble-other: #151d2b;
+  --border: #25324b;
+  --border-strong: #25324b;
+  --badge: #ff7849;
+  --radius-lg: 24px;
+  --radius-xl: 34px;
+  --density: 0.9;
+  --nav-height: 86px;
+  --sidebar-width: 356px;
+  --header-blur: 14px;
+  --noise-opacity: 0.28;
+  --bubble-max-width: 580px;
+  --composer-height: 68px;
+  --layout-gap: 18px;
+  --layout-padding: 20px;
+  --avatar-radius: 20px;
+  --icon-scale: 1.08;
+  --surface-shadow: 0 24px 72px rgba(7, 16, 29, 0.42);
+  --surface-shadow-strong: 0 34px 120px rgba(7, 16, 29, 0.34);
+  --shell-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.02));
+  --topbar-fill: linear-gradient(135deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.02));
+  --nav-fill: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+  --input-fill: linear-gradient(135deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.02));
+  --bg-gradient: radial-gradient(circle at 20% 12%, rgba(79, 140, 255, 0.14), transparent 40%),
+    radial-gradient(circle at 84% 88%, rgba(139, 92, 246, 0.18), transparent 44%),
+    linear-gradient(180deg, #090e17 0%, #101826 100%);
+  --decor-opacity: 0.35;
+  --morph-progress: 0;
+  --scrollbar: rgba(159, 180, 204, 0.35);
+}
